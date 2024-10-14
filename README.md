@@ -6,9 +6,9 @@ My most recent project that I have been working on is: Plundering Pete. A game a
 
 
 My Skills are:
-- C# (< 1 year)
-- Unity(< 1 year)
-- Leadership (4 years)
+- C# ( 2 years )
+- Unity( 2 years )
+- Leadership ( 4 years )
 
 My Hobbies are:
 - Hockey (Go Moose Go!)
