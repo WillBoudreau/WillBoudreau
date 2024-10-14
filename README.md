@@ -6,7 +6,9 @@ My Skills are:
 - Unity(1 year)
 
 Feel free to reach out at any time, my contact info can be found here:
+ 
  My LinkedIn: https://www.linkedin.com/in/william-boudreau-822346292/
+ 
  My Portfolio: https://williamboudreau804.wixsite.com/my-site
 <!---
 WillBoudreau/WillBoudreau is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
