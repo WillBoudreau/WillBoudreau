@@ -9,6 +9,7 @@ My Skills are:
 - C# (1 year)
 - Unity(1 year)
 - Leadership (4 years)
+
 My Hobbies are:
 - Hockey (Go Moose Go!)
 - Gaming
