@@ -4,7 +4,7 @@ My most recent project that I have been working on is: Plundering Pete. A game a
 
 ![ScreenShotofenemy](https://github.com/user-attachments/assets/40333150-cd94-4014-abab-86b61741b929)
 
-My proudest project is: TroubleShoot,a Ubisoft Choice award Winne! Troubleshoot top down 2D shoot'em up that I made on a team of 3 other students during GGJ 24
+My proudest project is: TroubleShoot,a Ubisoft Choice award Winner! Troubleshoot top down 2D shoot'em up that I made on a team of 3 other students during GGJ 24
 
 <img width="458" alt="USBPIC" src="https://github.com/user-attachments/assets/2de0b13f-a2a3-4ec0-820e-d4628c5eb9cb">
 
