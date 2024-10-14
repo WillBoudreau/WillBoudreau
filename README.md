@@ -1,4 +1,5 @@
 Hello! I am William or Will! I am currently in my second year at NSCC in Game Programming.
+
 My most recent project that I have been working on is: Plundering Pete. A game about a pirate and his unquenchable thirst for doubloons.
 
 My Skills are:
