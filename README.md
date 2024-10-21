@@ -3,6 +3,7 @@ Hello! I am William or Will! I am currently in my second year at NSCC in Game Pr
 My most recent project that I have been working on is: Plundering Pete. A game about a pirate and his unquenchable thirst for doubloons as he sails the seven seas to reach the mystical island that is said to be land of doubloons. The only thing seperating him, is water filled with numerous enemies and obstacles he will have to navigate through.
 
 Made with:
+
 -Unity 2D
 
 -C#
@@ -12,6 +13,7 @@ Made with:
 My proudest project is: TroubleShoot,a Ubisoft Choice award Winner! Troubleshoot top down 2D shoot'em up that I made on a team of 3 other students during GGJ 24. Play Debug mode, with the goal to survive the waves of errors hunting you down and then finally defeat the boss or hold out for as long as you can in Endless mode, against the ever increasing horde of errors.
 
 Made with:
+
 -Unity 2D
 
 -C#
