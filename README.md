@@ -5,7 +5,6 @@ My most recent project that I have been working on is: Plundering Pete. A game a
 Made with:
 
 -Unity 2D
-
 -C#
 
 ![ScreenShotofenemy](https://github.com/user-attachments/assets/40333150-cd94-4014-abab-86b61741b929)
@@ -15,7 +14,6 @@ My proudest project is: TroubleShoot,a Ubisoft Choice award Winner! Troubleshoot
 Made with:
 
 -Unity 2D
-
 -C#
 
 <img width="458" alt="USBPIC" src="https://github.com/user-attachments/assets/2de0b13f-a2a3-4ec0-820e-d4628c5eb9cb">
