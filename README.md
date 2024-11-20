@@ -1,5 +1,5 @@
 
-Hello! I am William or Will! I am currently in my second year at NSCC in Game Programming, looking to develop and increase my skills in Game programming and development!
+Hello! I am William or Will!
 -
 Here is where I will store my projects and challenges!
 
