@@ -2,7 +2,12 @@
 Hello! I am William or Will! I am currently in my second year at NSCC in Game Programming, looking to develop and increase my skills in Game programming and development!
 -
 Here is where I will store my projects and challenges!
+
+
+A Little about me:
 -
+I am from Nova Scotia Canada and have recently discorvered my passion for game programming while in High School, where I began to work on Python. From there I managed to get into Nova Scotia Community College (NSCC) Game programming course and have since been able to build a great understanding on how to use Unity and C#! 
+
 
 My most recent project that I have been working on is: 
 -
@@ -39,8 +44,10 @@ My Hobbies are:
 ----------------
 - Hockey (Go Moose Go!)
 - Gaming (NHL, Farcry,Isonzo and Hearts of Iron 4)
+- Camping
 
 Feel free to reach out at any time, my contact info can be found here:
+-
  
  My LinkedIn: https://www.linkedin.com/in/william-boudreau-822346292/
  
